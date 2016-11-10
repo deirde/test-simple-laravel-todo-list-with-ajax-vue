@@ -2,7 +2,11 @@
 
 Specs
 -----
-Simple Todo CRUD web application using Laravel, Ajax and Vue library.<br />
+Simple ToDo CRUD web application using Laravel, Ajax and Vue library.<br />
+Installation, Database and Routes.<br />
+Listing Projects and Tasks.<br />
+Data validation.<br />
+Create, edit and delete features with Ajax throught the Vue library, https://vuejs.org/.<br />
 
 Note
 ----
