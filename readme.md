@@ -2,8 +2,7 @@
 
 Specs
 -----
-A simple TODO list management build with the PHP Laravel framework.<br />
-List, add, update and delete feature throught Ajax using the VUE library (https://vuejs.org/).
+Simple Todo CRUD web application using Laravel, Ajax and Vue library.<br />
 
 Note
 ----
