@@ -11,7 +11,4 @@ Create, edit and delete features with Ajax throught the Vue library, https://vue
 Note
 ----
 This is a technical test.<br/>
-TIME: 3 hours.<br/>
-URL: http://test-simple-laravel-todo-list-with-ajax-vue.123beta.net/<br/>
-Uid: test123<br/>
-Psw: test123a
+TIME: 3 hours.
