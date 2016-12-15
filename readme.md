@@ -1,10 +1,8 @@
-# TEST - LARAVEL TODO LIST WITH AJAX-VUE.JS #
-
 ![ScreenShot](https://github.com/deirde/test-simple-laravel-todo-list-with-ajax-vue/blob/master/.rs/test-simple-laravel-todo-list-with-ajax-vue-screenshot-01.png)
 
 Specs
 -----
-Simple ToDo CRUD web application using Laravel, Ajax and Vue library.<br />
+Simple TODO CRUD web application using Laravel, Ajax and Vue library.<br />
 Installation, Database and Routes.<br />
 Listing Projects and Tasks.<br />
 Data validation.<br />
